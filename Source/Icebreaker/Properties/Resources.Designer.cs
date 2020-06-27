@@ -88,7 +88,7 @@ namespace Icebreaker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It&apos;s a win-win-*win* situation..
+        ///   Looks up a localized string similar to I get to help you meet more people around your organization by randomly pairing you with someone new every day. You get to make more friends and learn about the people you work with. It&apos;s a win-win-*win* situation..
         /// </summary>
         internal static string InstallMessageKnownInstallerPart2 {
             get {
@@ -115,7 +115,7 @@ namespace Icebreaker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I get to help you meet more people around your organization by randomly pairing you with someone new every week. You get to make more friends and learn about the people you work with. It&apos;s a win-win-*win* situation..
+        ///   Looks up a localized string similar to I get to help you meet more people around your organization by randomly pairing you with someone new every day. You get to make more friends and learn about the people you work with. It&apos;s a win-win-*win* situation..
         /// </summary>
         internal static string InstallMessageUnknownInstallerPart2 {
             get {
@@ -133,7 +133,7 @@ namespace Icebreaker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hi there again, I&apos;m {0} in {1}. A bot that pairs you with a new coworker to meet each week. This week your match is {2}..
+        ///   Looks up a localized string similar to Hi there again, I&apos;m {0} in {1}. A bot that pairs you with a new coworker to meet every day. Today your match is {2}..
         /// </summary>
         internal static string MatchUpCardContentPart1 {
             get {
@@ -169,7 +169,7 @@ namespace Icebreaker.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hey there, looks like we&apos;ve been matched by {0} this week. It&apos;d be great to meet up for a coffee or a lunch or a call if you&apos;ve got time..
+        ///   Looks up a localized string similar to Hey there, looks like we&apos;ve been matched by {0} today. It&apos;d be great to meet up for a coffee or a lunch or a call if you&apos;ve got time..
         /// </summary>
         internal static string MeetupContent {
             get {
